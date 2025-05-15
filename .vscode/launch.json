@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Syifa Aulia Azhim/Documents/CS1-progdas10/PROGDAS-CS10-Template",
-      "program": "c:/Users/Syifa Aulia Azhim/Documents/CS1-progdas10/PROGDAS-CS10-Template/build/Debug/outDebug",
+      "cwd": "c:/Users/Lenovo/Documents/git/PROGDAS-CS1-10",
+      "program": "c:/Users/Lenovo/Documents/git/PROGDAS-CS1-10/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
